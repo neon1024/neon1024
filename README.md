@@ -5,9 +5,15 @@ Final-year Computer Science student at Babes-Bolyai University, Cluj-Napoca, Rom
 - Java
 - Python
 - Kotlin
-- C
-- C++
-- Bash
 - React
 - Express.js
----
+- C
+- C++
+- SQL
+- Javascript
+- jQuery
+- HTML
+- CSS
+- Bash
+- Git
+- UiPath Studio
