@@ -1,14 +1,15 @@
 # 👾 Ioan Robert Scumpu
-Final-year Computer Science student at 🎓 Babes-Bolyai University, Cluj-Napoca, Romania.
+Computer Science Graduate 🎓 at Babes-Bolyai University, Cluj-Napoca, Romania.
 # 💻 Skills
-- C#
-- Java
 - Python
-- Kotlin
-- React
-- Express.js
+- Java
+- C#
 - C
 - C++
+- React
+- Express.js
+- Dart
+- Flutter
 - SQL
 - Javascript
 - jQuery
