@@ -1,5 +1,5 @@
 # 👾 Ioan Robert Scumpu
-Computer Science Graduate 🎓 at Babes-Bolyai University, Cluj-Napoca, Romania.
+🎓 Computer Science Graduate | Master's Student in Software Engineering at Babes-Bolyai University, Cluj-Napoca, Romania.
 # 💻 Skills
 - Python
 - Java
