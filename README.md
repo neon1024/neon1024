@@ -1,20 +1,24 @@
 # 👾 Ioan Robert Scumpu
-🎓 Computer Science Graduate | Master's Student in Software Engineering at Babes-Bolyai University, Cluj-Napoca, Romania.
+🎓 Master's Student in Software Engineering | Computer Science Graduate at Babes-Bolyai University, Cluj-Napoca, Romania.
 # 💻 Skills
 - Python
 - Java
-- C#
-- C
-- C++
+- SQL
 - React
+- Expo
+- C++
+- C
 - Express.js
+- Node.js
 - Dart
 - Flutter
-- SQL
+- C#
 - Javascript
 - jQuery
 - HTML
 - CSS
 - Bash
 - Git
+- Firebase
+- Supabase
 - UiPath Studio
