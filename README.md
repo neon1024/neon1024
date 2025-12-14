@@ -3,17 +3,24 @@
 # 💻 Skills
 - Python
 - Java
+- Spring Boot
+- PHP
+- Laravel
+- PostgreSQL
 - SQL
 - React
+- React Native
+- Vue
+- TypeScript
+- JavaScript
 - Expo
 - C++
 - C
-- Express.js
-- Node.js
+- Express
+- Node
 - Dart
 - Flutter
 - C#
-- Javascript
 - jQuery
 - HTML
 - CSS
