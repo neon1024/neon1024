@@ -1,5 +1,5 @@
 # 👾 Ioan Robert Scumpu
-🎓 Master's Student in Software Engineering | Computer Science Graduate at Babes-Bolyai University, Cluj-Napoca, Romania.
+Full-Stack Developer Intern | 🎓 Master's Student in Software Engineering | Computer Science Graduate at Babes-Bolyai University, Cluj-Napoca, Romania.
 # 💻 Skills
 - Python
 - Java
