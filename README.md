@@ -24,6 +24,7 @@ Full-Stack Developer Intern | 🎓 Master's Student in Software Engineering | Co
 - jQuery
 - HTML
 - CSS
+- Tailwind CSS
 - Bash
 - Git
 - Firebase
